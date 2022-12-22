@@ -1,4 +1,4 @@
-# mlzoomcamp-project
+# Fraud Prediction Project for ml-zoomcamp
 ## Data source: https://github.com/feedzai/bank-account-fraud
 ### The dataset can be downloaded from Kaggle from https://www.kaggle.com/datasets/sgpjesus/bank-account-fraud-dataset-neurips-2022
 ## Business problem
