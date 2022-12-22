@@ -9,4 +9,6 @@ The notebook uses kaggle API to download the dataset, ensure to have valid crede
 The latest version of the model is saved as 'xgb_13aucpr.pkl'
 There's a docker image that was uploaded to dockerhub and can be downloaded using:
 
-> docker pull romulopagnozzi/mlzoomcamp-project
+```
+docker pull romulopagnozzi/mlzoomcamp-project
+```
