@@ -20,5 +20,4 @@ There's a docker image that was uploaded to dockerhub and can be downloaded usin
 ```
 docker pull romulopagnozzi/mlzoomcamp-project
 ```
-
-### With the docker image you can run locally and use **predict-test.py** script to test it.
+After downloading the image run the service locally and test using **predict-test.py**
